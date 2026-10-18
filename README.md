@@ -1,2 +1,6 @@
 # template
-Frontend Template
+
+```sh
+npm install
+npm run dev
+```
